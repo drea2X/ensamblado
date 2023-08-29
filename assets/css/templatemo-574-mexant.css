@@ -159,7 +159,6 @@ body {
   display: inline-block;
   border-radius: 5px;
   font-weight: 500;
-  text-transform: capitalize;
   letter-spacing: 0.5px;
   transition: all .3s;
 }
@@ -176,7 +175,6 @@ body {
   display: inline-block;
   border-radius: 5px;
   font-weight: 500;
-  text-transform: capitalize;
   letter-spacing: 0.5px;
   transition: all .3s;
 }
@@ -194,7 +192,7 @@ section {
   z-index: 2;
   margin-top: 0px;
   text-align: center;
-  margin-bottom: 70px;
+  margin-bottom: 100px;
 }
 
 .section-heading h6 {
@@ -205,11 +203,10 @@ section {
 }
 
 .section-heading h4 {
-  margin-top: 10px;
+  margin-top: 60px;
   line-height: 40px;
   font-size: 36px;
   font-weight: 700;
-  text-transform: capitalize;
   color: #212741;
 }
 
@@ -304,7 +301,6 @@ header
   display: block;
   font-weight: 300;
   font-size: 14px;
-  text-transform: capitalize;
   color: #fff;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
@@ -324,7 +320,6 @@ header
   display: inline-block;
   border-radius: 5px;
   font-weight: 500;
-  text-transform: capitalize;
   height: auto;
   line-height: 25px;
   letter-spacing: 0.5px;
@@ -1062,7 +1057,6 @@ section.calculator .section-heading h4 {
   display: inline-block;
   border-radius: 5px;
   font-weight: 500;
-  text-transform: capitalize;
   letter-spacing: 0.5px;
   border: none;
   transition: all .3s;
@@ -1607,7 +1601,6 @@ section.map .info-item a:hover {
   display: inline-block;
   border-radius: 5px;
   font-weight: 500;
-  text-transform: capitalize;
   letter-spacing: 0.5px;
   border: none;
   transition: all .3s;
